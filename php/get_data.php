@@ -2,7 +2,7 @@
 
 $servername = "127.0.0.1";
 $username = "root";
-$password = "Gforce98!";
+$password = "password";
 $dbname = "store";
 
 $connect = mysqli_connect($servername, $username, $password, $dbname);
