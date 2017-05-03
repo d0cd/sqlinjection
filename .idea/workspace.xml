@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="369d71d4-797f-4eb6-982b-547aa86f8aad" name="Default" comment="" />
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
+=======
+    <list default="true" id="8f5f9d6c-c3ab-409d-96d5-da249135ad04" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/modsecurity.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/nginx.conf" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/express/nginx-1.12.0.tar.gz" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/express/setup.sql" afterPath="$PROJECT_DIR$/config/setup.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/get_data.php" afterPath="$PROJECT_DIR$/php/get_data.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/get_form.html" afterPath="$PROJECT_DIR$/php/get_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/send_data.php" afterPath="$PROJECT_DIR$/php/send_data.php" />
+    </list>
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,6 +31,7 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+<<<<<<< HEAD
   <component name="FavoritesManager">
     <favorites_list name="untitled" />
   </component>
@@ -40,56 +54,105 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-225">
               <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+=======
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="nginx.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/nginx.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="128" column="0" lean-forward="true" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="get_form.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/get_form.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+      <file leaf-file-name="modsecurity.conf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/modsecurity.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="10451" column="58" lean-forward="true" selection-start-line="10451" selection-start-column="58" selection-end-line="10451" selection-end-column="58" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="send_data.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/php/send_data.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+=======
+      <file leaf-file-name="get_data.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php/get_data.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="send_form.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/send_form.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+=======
+      <file leaf-file-name="get_form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/get_form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="setup.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/express/setup.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+=======
+      <file leaf-file-name="send_data.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/send_data.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/express/form.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+=======
+      <file leaf-file-name="send_form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/send_form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
               <folding />
             </state>
           </provider>
@@ -97,6 +160,7 @@
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -104,10 +168,15 @@
         <option value="HTML File" />
       </list>
     </option>
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/form.html" />
         <option value="$PROJECT_DIR$/setup.sql" />
@@ -118,6 +187,13 @@
         <option value="$PROJECT_DIR$/php/send_form.html" />
         <option value="$PROJECT_DIR$/express/app.js" />
         <option value="$PROJECT_DIR$/php/send_data.php" />
+=======
+        <option value="$PROJECT_DIR$/php/get_form.html" />
+        <option value="$PROJECT_DIR$/php/send_data.php" />
+        <option value="$PROJECT_DIR$/php/get_data.php" />
+        <option value="$PROJECT_DIR$/config/nginx.conf" />
+        <option value="$PROJECT_DIR$/config/modsecurity.conf" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
       </list>
     </option>
   </component>
@@ -128,6 +204,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="732" />
@@ -141,6 +218,12 @@
     <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
+=======
+    <option name="x" value="75" />
+    <option name="y" value="118" />
+    <option name="width" value="1515" />
+    <option name="height" value="881" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -157,10 +240,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scratches" />
+      <pane id="Scope" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="SQLInjection" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
@@ -168,6 +257,8 @@
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="SQLInjection" />
+=======
+              <option name="myItemId" value="sqlinjection" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -181,7 +272,8 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SQLInjection" />
+              <option name="myItemId" value="sqlinjection" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -189,12 +281,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="php" />
+=======
               <option name="myItemId" value="express" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="SQLInjection" />
+=======
+              <option name="myItemId" value="sqlinjection" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sqlinjection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="express" />
+=======
+              <option name="myItemId" value="config" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
@@ -213,6 +332,21 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/express" />
+=======
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
     </key>
   </component>
   <component name="RunManager">
@@ -228,6 +362,15 @@
       <envs />
       <method />
     </configuration>
+<<<<<<< HEAD
+=======
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -241,6 +384,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+<<<<<<< HEAD
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
@@ -251,6 +395,12 @@
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run-script" />
+=======
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -273,6 +423,7 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+<<<<<<< HEAD
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -286,10 +437,21 @@
       <workItem from="1493402730787" duration="10376000" />
       <workItem from="1493495622179" duration="252000" />
       <workItem from="1493499045449" duration="461000" />
+=======
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f5f9d6c-c3ab-409d-96d5-da249135ad04" name="Default" comment="" />
+      <created>1493513687467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493513687467</updated>
+      <workItem from="1493513688794" duration="684000" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="11089000" />
   </component>
   <component name="ToolWindowManager">
@@ -339,11 +501,40 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+=======
+    <option name="totallyTimeSpent" value="684000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="75" y="118" width="1515" height="881" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21122113" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
+<<<<<<< HEAD
     <breakpoint-manager>
       <option name="time" value="1" />
     </breakpoint-manager>
@@ -363,18 +554,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+=======
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/php/send_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/express/form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+=======
+    <entry file="file://$PROJECT_DIR$/php/get_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/express/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-528">
@@ -389,22 +598,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-225">
           <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+=======
+    <entry file="file://$PROJECT_DIR$/php/send_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/modsecurity.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="10451" column="58" lean-forward="true" selection-start-line="10451" selection-start-column="58" selection-end-line="10451" selection-end-column="58" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/php/get_form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/config/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="128" column="0" lean-forward="true" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/php/send_data.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+=======
+    <entry file="file://$PROJECT_DIR$/php/get_data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+>>>>>>> bd971228261daa321729fed3ba636049edb2ea8c
           <folding />
         </state>
       </provider>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SQLInjection.iml" filepath="$PROJECT_DIR$/.idea/SQLInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sqlinjection.iml" filepath="$PROJECT_DIR$/.idea/sqlinjection.iml" />
     </modules>
   </component>
 </project>
