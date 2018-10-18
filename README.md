@@ -30,6 +30,6 @@ challenging to handle manually. This is where ModSecurity comes in. The web appl
 using a vast quantity of pattern checks. If data reaches a certain threshold, the firewall doesn't allow it through.
 
 ### Conclusion
-Mitigating exploits is pretty damn challenging; it is very likely that, despite the precautions you take, there are attack vectors out there 
+Mitigating exploits is pretty challenging; it is very likely that, despite the precautions you take, there are attack vectors out there 
 waiting to be exploited. However, with the combination of parameterized queries and some software, significant steps can be taken towards 
-securing your system
+securing your system.
